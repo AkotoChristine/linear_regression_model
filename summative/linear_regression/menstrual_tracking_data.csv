@@ -1,4 +1,4 @@
-user_id,log_date,cycle_length,period_duration,symptoms,Custom
+user_id,login_date,cycle_length,period_duration,symptoms,nextperiod_date
 1,8/18/2023,27,4,"bloating, fatigue, acne",9/14/2023
 2,7/8/2023,24,3,"acne, bloating",8/1/2023
 3,3/1/2023,33,7,"cramps, bloating",4/3/2023
