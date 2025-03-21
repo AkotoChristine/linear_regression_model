@@ -1,501 +1,501 @@
-user_id,log_date,cycle_length,period_duration,symptoms
-1,2023-08-18,27,4,"bloating, fatigue, acne"
-2,2023-07-08,24,3,"acne, bloating"
-3,2023-03-01,33,7,"cramps, bloating"
-4,2023-09-05,35,6,"bloating, cramps, fatigue"
-5,2023-06-02,31,4,fatigue
-6,2023-11-23,28,3,"acne, cramps, headache"
-7,2022-10-09,33,6,"mood swings, headache, fatigue"
-8,2022-11-16,25,7,mood swings
-9,2023-03-19,27,6,"cramps, fatigue"
-10,2022-11-11,30,3,"bloating, cramps, mood swings"
-11,2023-01-12,23,6,"mood swings, fatigue, headache"
-12,2022-10-16,27,5,mood swings
-13,2023-03-13,31,6,"bloating, mood swings, acne"
-14,2023-10-24,31,4,"mood swings, acne, headache"
-15,2022-10-04,28,4,"cramps, mood swings, acne"
-16,2023-12-11,25,5,mood swings
-17,2023-08-05,24,3,fatigue
-18,2023-05-18,28,4,bloating
-19,2023-09-16,28,7,"fatigue, bloating, cramps"
-20,2023-05-31,23,4,headache
-21,2022-12-16,26,4,"bloating, acne"
-22,2023-03-22,25,3,"bloating, mood swings, fatigue"
-23,2022-12-16,22,6,"acne, bloating"
-24,2023-08-30,28,4,"bloating, fatigue, headache"
-25,2023-10-26,32,5,cramps
-26,2022-05-17,34,6,"acne, headache"
-27,2022-08-31,26,7,mood swings
-28,2023-06-27,22,3,"headache, fatigue"
-29,2022-02-09,32,7,bloating
-30,2022-08-17,25,6,"headache, bloating"
-31,2023-07-02,21,6,"acne, fatigue"
-32,2022-08-11,32,6,"mood swings, headache"
-33,2022-01-06,30,7,mood swings
-34,2022-11-18,26,6,"cramps, bloating"
-35,2023-04-13,33,7,"acne, headache"
-36,2022-03-16,32,6,"fatigue, headache, acne"
-37,2022-01-04,29,5,headache
-38,2023-10-08,21,6,"acne, cramps"
-39,2022-04-28,31,7,"acne, bloating, mood swings"
-40,2023-08-29,31,4,"fatigue, cramps, mood swings"
-41,2023-05-19,35,6,"mood swings, cramps"
-42,2023-07-28,30,4,mood swings
-43,2023-03-17,32,5,"bloating, headache, mood swings"
-44,2022-07-13,32,3,cramps
-45,2023-12-16,35,5,cramps
-46,2023-01-27,34,6,cramps
-47,2022-01-26,34,4,"mood swings, fatigue, acne"
-48,2023-03-11,35,4,"acne, fatigue"
-49,2022-06-22,34,7,"headache, cramps"
-50,2022-10-27,23,4,acne
-51,2023-10-07,32,7,"cramps, bloating, fatigue"
-52,2022-11-22,27,3,"fatigue, mood swings"
-53,2023-02-14,24,6,bloating
-54,2022-04-28,29,7,"fatigue, cramps"
-55,2023-12-25,23,3,"headache, mood swings, acne"
-56,2022-08-13,25,4,"acne, cramps, headache"
-57,2023-06-16,23,4,bloating
-58,2022-04-23,27,3,"acne, bloating"
-59,2022-05-20,25,4,"fatigue, cramps"
-60,2023-07-13,29,3,headache
-61,2022-01-01,27,7,"acne, cramps"
-62,2022-03-31,22,7,acne
-63,2023-10-16,24,3,mood swings
-64,2022-11-16,29,7,acne
-65,2023-07-04,32,7,"mood swings, headache, acne"
-66,2022-05-19,34,7,"acne, fatigue"
-67,2023-05-26,22,5,"acne, bloating"
-68,2022-09-16,30,6,fatigue
-69,2023-11-04,29,4,"mood swings, headache, cramps"
-70,2023-11-21,30,5,"acne, mood swings"
-71,2022-01-10,25,7,bloating
-72,2022-09-18,22,3,"cramps, mood swings, bloating"
-73,2023-10-12,24,7,"bloating, fatigue, cramps"
-74,2022-06-21,32,6,"bloating, cramps, headache"
-75,2022-01-13,35,7,"fatigue, mood swings"
-76,2022-06-17,32,3,"headache, cramps"
-77,2023-10-04,27,6,"fatigue, cramps"
-78,2023-08-19,32,7,cramps
-79,2022-11-17,33,6,"headache, mood swings"
-80,2022-11-15,28,4,"cramps, bloating, acne"
-81,2023-09-05,35,4,cramps
-82,2022-11-25,23,7,"bloating, cramps"
-83,2023-07-04,34,6,fatigue
-84,2023-02-23,21,3,"bloating, cramps, mood swings"
-85,2023-08-29,24,7,acne
-86,2022-04-05,22,4,"acne, mood swings"
-87,2023-08-04,28,4,"fatigue, headache"
-88,2022-11-14,24,7,"mood swings, cramps"
-89,2022-08-24,22,6,"cramps, fatigue"
-90,2022-11-30,34,4,"acne, headache"
-91,2023-01-11,26,6,fatigue
-92,2023-04-04,26,4,"fatigue, acne"
-93,2022-05-17,30,4,"acne, mood swings"
-94,2023-08-11,24,5,mood swings
-95,2023-07-01,26,4,"fatigue, headache"
-96,2023-05-28,33,3,"headache, bloating"
-97,2022-10-23,35,7,cramps
-98,2022-11-16,22,7,"mood swings, cramps"
-99,2023-07-26,30,6,cramps
-100,2022-12-15,32,4,headache
-101,2022-08-17,22,3,headache
-102,2022-09-27,30,6,"fatigue, headache, cramps"
-103,2022-10-18,34,5,"fatigue, bloating"
-104,2023-12-26,24,6,"acne, headache"
-105,2022-06-14,34,6,headache
-106,2022-01-05,35,4,"mood swings, fatigue, cramps"
-107,2023-01-14,35,5,"acne, bloating, fatigue"
-108,2022-03-19,28,6,cramps
-109,2023-02-14,34,3,"cramps, mood swings, headache"
-110,2023-07-28,27,3,"bloating, acne, mood swings"
-111,2022-05-12,32,7,bloating
-112,2023-08-24,29,5,"acne, bloating"
-113,2022-02-11,34,5,"fatigue, bloating"
-114,2022-03-30,28,7,fatigue
-115,2023-02-06,25,6,bloating
-116,2022-10-23,33,5,acne
-117,2022-10-22,22,3,"mood swings, headache"
-118,2023-09-08,35,3,headache
-119,2023-06-10,25,4,"acne, mood swings, fatigue"
-120,2023-11-22,28,5,"bloating, acne"
-121,2023-09-29,30,6,"bloating, headache, cramps"
-122,2023-02-26,29,7,"headache, bloating"
-123,2022-01-23,32,7,"headache, acne"
-124,2023-07-29,32,6,fatigue
-125,2022-05-23,32,4,"acne, cramps, bloating"
-126,2023-10-27,33,7,"cramps, mood swings, acne"
-127,2022-05-25,29,5,mood swings
-128,2022-08-13,33,4,cramps
-129,2023-05-18,35,5,"fatigue, cramps, mood swings"
-130,2023-09-08,33,3,headache
-131,2022-04-14,21,4,"headache, acne, fatigue"
-132,2022-02-08,29,7,acne
-133,2022-07-17,27,4,acne
-134,2023-10-08,29,4,"cramps, mood swings, fatigue"
-135,2023-08-02,28,4,mood swings
-136,2023-01-26,21,4,"fatigue, acne, cramps"
-137,2022-06-28,32,5,"bloating, mood swings, fatigue"
-138,2023-07-08,28,3,"mood swings, headache"
-139,2023-03-24,28,6,"cramps, bloating, headache"
-140,2023-05-15,35,4,mood swings
-141,2022-01-15,31,7,"mood swings, fatigue, bloating"
-142,2023-09-15,23,4,bloating
-143,2023-10-31,21,7,"fatigue, cramps, headache"
-144,2022-10-16,28,5,"fatigue, acne"
-145,2023-04-23,23,7,"bloating, acne"
-146,2022-08-19,23,6,"bloating, mood swings, acne"
-147,2023-02-24,21,3,"fatigue, acne, cramps"
-148,2022-06-06,31,7,mood swings
-149,2023-07-04,25,7,"cramps, bloating, acne"
-150,2023-03-17,30,3,fatigue
-151,2022-04-07,27,6,"cramps, acne"
-152,2023-02-15,30,4,"headache, mood swings, cramps"
-153,2022-10-16,29,7,"bloating, fatigue, headache"
-154,2022-09-11,32,3,"acne, mood swings, headache"
-155,2022-07-15,27,5,fatigue
-156,2023-08-21,29,3,"fatigue, bloating"
-157,2023-06-06,28,5,"cramps, bloating, fatigue"
-158,2023-06-01,32,6,cramps
-159,2023-09-27,22,4,"fatigue, mood swings"
-160,2022-04-28,21,3,mood swings
-161,2022-06-08,27,7,"fatigue, headache, mood swings"
-162,2022-08-16,27,6,"acne, cramps"
-163,2022-08-04,34,3,acne
-164,2023-11-27,28,7,"acne, mood swings"
-165,2022-01-15,25,3,"acne, headache"
-166,2022-06-06,23,5,mood swings
-167,2023-10-10,32,3,fatigue
-168,2022-09-18,28,3,"cramps, fatigue"
-169,2022-06-06,26,3,"cramps, bloating, headache"
-170,2022-02-16,31,6,fatigue
-171,2022-11-20,23,3,"bloating, fatigue"
-172,2023-11-16,21,7,"cramps, headache"
-173,2022-05-10,23,5,"bloating, acne"
-174,2023-02-15,25,5,"cramps, acne"
-175,2022-04-05,35,3,"mood swings, fatigue"
-176,2023-09-19,34,6,fatigue
-177,2022-10-19,23,6,acne
-178,2022-10-10,21,7,mood swings
-179,2022-03-10,25,3,headache
-180,2023-10-22,30,5,"acne, fatigue"
-181,2022-01-11,27,6,fatigue
-182,2022-09-11,35,3,"cramps, bloating, headache"
-183,2023-07-04,34,6,bloating
-184,2022-05-14,27,6,"headache, bloating, fatigue"
-185,2023-12-13,31,5,acne
-186,2022-01-23,29,4,"bloating, headache, acne"
-187,2022-12-12,35,7,"cramps, acne"
-188,2022-10-29,35,7,cramps
-189,2022-12-29,30,5,"mood swings, bloating, cramps"
-190,2023-01-31,30,6,"bloating, fatigue, acne"
-191,2022-08-06,32,3,"cramps, bloating, acne"
-192,2022-05-21,33,6,"mood swings, headache, bloating"
-193,2023-09-08,23,5,"mood swings, bloating"
-194,2022-07-29,35,7,acne
-195,2023-09-15,27,6,"headache, cramps, mood swings"
-196,2023-09-08,21,7,"cramps, mood swings"
-197,2023-11-14,24,3,"mood swings, headache, acne"
-198,2023-04-05,33,7,"acne, mood swings"
-199,2022-12-22,24,7,bloating
-200,2022-11-20,34,4,acne
-201,2022-05-13,25,4,cramps
-202,2022-05-07,27,4,"bloating, headache, fatigue"
-203,2022-04-16,27,7,"headache, acne, bloating"
-204,2023-08-27,33,5,headache
-205,2023-01-13,35,7,headache
-206,2022-02-20,31,5,acne
-207,2022-01-29,33,5,"cramps, headache, fatigue"
-208,2023-04-07,24,4,cramps
-209,2022-10-23,33,6,fatigue
-210,2022-10-24,27,3,"mood swings, acne, fatigue"
-211,2023-12-27,31,4,bloating
-212,2023-02-11,23,4,"cramps, acne"
-213,2023-09-05,26,6,"bloating, headache"
-214,2023-02-09,32,3,"bloating, fatigue"
-215,2022-12-12,22,7,"fatigue, headache"
-216,2023-09-14,30,7,"acne, mood swings"
-217,2023-02-24,33,4,fatigue
-218,2022-07-01,34,3,acne
-219,2022-01-01,29,4,"fatigue, headache, mood swings"
-220,2023-07-21,25,5,cramps
-221,2023-01-06,26,4,"cramps, fatigue"
-222,2023-10-23,32,4,"mood swings, headache, fatigue"
-223,2023-03-07,32,7,"cramps, headache"
-224,2022-11-05,32,7,"acne, fatigue, headache"
-225,2022-05-17,32,7,headache
-226,2022-07-21,24,5,"cramps, bloating"
-227,2023-03-12,34,7,"acne, bloating, headache"
-228,2022-11-09,34,3,acne
-229,2022-04-27,31,6,"bloating, fatigue, cramps"
-230,2023-10-28,30,3,bloating
-231,2023-07-29,27,3,acne
-232,2022-09-01,32,7,"fatigue, mood swings"
-233,2023-06-21,29,6,bloating
-234,2023-08-25,27,6,"bloating, fatigue, headache"
-235,2022-03-16,34,6,"cramps, mood swings, headache"
-236,2023-01-21,21,5,"acne, bloating"
-237,2022-07-29,21,7,"cramps, mood swings"
-238,2023-04-20,29,6,headache
-239,2023-02-22,31,5,fatigue
-240,2022-12-13,34,4,"cramps, mood swings"
-241,2023-06-13,29,4,"cramps, fatigue"
-242,2023-10-02,24,5,"fatigue, bloating, acne"
-243,2022-06-28,33,5,"cramps, acne"
-244,2022-07-01,29,7,acne
-245,2023-10-26,23,7,"headache, fatigue, acne"
-246,2022-01-25,27,4,"fatigue, mood swings, acne"
-247,2022-06-29,26,6,headache
-248,2023-12-11,28,4,"headache, cramps, fatigue"
-249,2023-05-16,31,6,"mood swings, headache"
-250,2022-06-10,29,6,"bloating, headache"
-251,2022-06-26,34,7,"bloating, mood swings"
-252,2022-10-12,25,3,bloating
-253,2022-03-04,21,3,"fatigue, acne"
-254,2023-10-24,23,5,acne
-255,2023-10-28,30,7,mood swings
-256,2022-06-05,32,6,"fatigue, acne, bloating"
-257,2023-04-14,28,3,"headache, mood swings"
-258,2022-02-18,35,6,cramps
-259,2022-03-25,31,3,"cramps, acne"
-260,2022-12-27,26,3,"mood swings, fatigue"
-261,2023-11-20,28,3,cramps
-262,2022-05-28,29,7,"fatigue, acne"
-263,2023-09-22,24,4,"bloating, acne"
-264,2022-12-08,21,6,"cramps, acne, fatigue"
-265,2023-04-21,34,7,"mood swings, cramps, bloating"
-266,2022-03-04,21,7,bloating
-267,2023-12-02,30,7,"acne, mood swings, cramps"
-268,2022-12-26,24,7,"headache, mood swings, acne"
-269,2023-07-15,32,7,bloating
-270,2022-11-23,34,5,headache
-271,2022-05-21,27,6,"fatigue, acne"
-272,2022-08-03,22,7,"fatigue, mood swings"
-273,2023-03-11,23,6,"bloating, mood swings"
-274,2023-12-24,21,5,"fatigue, mood swings"
-275,2022-11-14,25,5,"cramps, headache, mood swings"
-276,2022-02-01,21,6,"cramps, acne"
-277,2023-11-01,28,3,"mood swings, acne, headache"
-278,2022-10-12,21,4,"cramps, acne"
-279,2022-11-01,31,3,"bloating, acne"
-280,2023-03-05,21,3,"mood swings, bloating"
-281,2023-04-22,22,3,fatigue
-282,2022-10-13,22,7,"bloating, acne, fatigue"
-283,2022-05-24,32,5,cramps
-284,2023-02-28,26,3,headache
-285,2022-01-19,27,5,"cramps, mood swings, bloating"
-286,2022-01-18,25,6,"cramps, headache"
-287,2023-08-13,21,4,"headache, mood swings, fatigue"
-288,2023-01-06,21,6,acne
-289,2022-06-24,23,6,"fatigue, headache"
-290,2022-07-13,34,7,"headache, bloating, fatigue"
-291,2023-05-17,22,4,cramps
-292,2022-04-23,25,6,"headache, fatigue, bloating"
-293,2022-04-24,32,6,fatigue
-294,2022-08-10,30,4,"bloating, headache"
-295,2023-11-09,26,4,acne
-296,2023-10-06,27,6,"fatigue, headache, mood swings"
-297,2022-09-21,24,4,"mood swings, headache, fatigue"
-298,2022-02-24,27,6,"cramps, fatigue"
-299,2023-10-05,31,6,acne
-300,2023-04-03,28,7,"fatigue, acne, mood swings"
-301,2022-06-11,31,3,"bloating, acne"
-302,2023-01-15,21,6,"acne, headache"
-303,2022-03-28,35,5,"fatigue, headache, bloating"
-304,2022-02-24,26,3,"acne, cramps"
-305,2023-04-21,28,3,"mood swings, headache"
-306,2022-06-27,25,3,"fatigue, acne, cramps"
-307,2023-01-26,24,7,"headache, acne"
-308,2022-12-15,22,6,"headache, mood swings"
-309,2022-01-08,26,7,fatigue
-310,2022-11-09,26,6,"headache, acne, bloating"
-311,2023-03-19,31,7,"mood swings, fatigue, acne"
-312,2022-11-24,35,7,"headache, fatigue, cramps"
-313,2022-02-23,21,5,"bloating, fatigue"
-314,2022-08-27,29,7,"acne, fatigue, bloating"
-315,2022-08-17,32,4,"headache, acne"
-316,2023-08-02,31,5,"mood swings, headache, acne"
-317,2022-02-20,26,7,mood swings
-318,2023-09-01,33,3,fatigue
-319,2023-08-27,23,4,fatigue
-320,2022-09-21,24,4,headache
-321,2023-02-22,32,4,"acne, mood swings, headache"
-322,2022-04-06,31,5,"fatigue, bloating, acne"
-323,2022-03-29,24,7,headache
-324,2022-03-19,23,7,headache
-325,2022-10-15,30,3,"acne, headache"
-326,2022-04-30,23,3,"fatigue, acne"
-327,2023-05-06,35,4,cramps
-328,2023-03-28,23,3,headache
-329,2023-05-15,24,5,"cramps, acne"
-330,2022-06-14,27,7,"acne, bloating"
-331,2022-07-01,24,4,"bloating, mood swings, fatigue"
-332,2023-04-14,29,3,"cramps, acne"
-333,2022-01-07,21,5,"headache, mood swings"
-334,2022-11-26,28,5,"fatigue, headache, cramps"
-335,2023-11-04,27,3,mood swings
-336,2022-05-31,22,7,fatigue
-337,2022-03-26,28,3,"bloating, mood swings, headache"
-338,2022-05-27,21,4,"headache, mood swings, bloating"
-339,2023-09-16,31,3,headache
-340,2023-01-16,32,5,"acne, headache, mood swings"
-341,2023-07-02,29,3,"bloating, cramps, headache"
-342,2022-10-12,29,7,headache
-343,2023-12-01,22,6,headache
-344,2022-03-23,27,3,"fatigue, mood swings"
-345,2023-05-29,35,7,"headache, cramps"
-346,2023-12-10,34,7,"cramps, mood swings, acne"
-347,2023-06-07,30,5,"fatigue, mood swings"
-348,2023-01-21,23,7,"mood swings, headache, fatigue"
-349,2023-12-08,27,7,"bloating, fatigue"
-350,2023-04-16,32,7,bloating
-351,2022-04-29,30,7,bloating
-352,2023-01-31,29,4,fatigue
-353,2023-06-16,24,4,cramps
-354,2022-09-18,32,5,"bloating, mood swings"
-355,2022-09-13,21,3,"headache, bloating, fatigue"
-356,2022-08-14,22,7,"bloating, mood swings"
-357,2022-02-22,21,3,"mood swings, bloating, fatigue"
-358,2023-05-15,34,3,"acne, fatigue, cramps"
-359,2023-05-21,32,5,cramps
-360,2022-12-30,25,7,"headache, cramps, acne"
-361,2022-10-07,25,7,"bloating, fatigue, cramps"
-362,2023-08-16,31,6,fatigue
-363,2023-12-15,27,3,headache
-364,2022-06-07,29,3,"fatigue, cramps"
-365,2023-09-24,29,4,"fatigue, headache, bloating"
-366,2022-02-28,23,6,mood swings
-367,2023-12-28,23,4,"mood swings, acne, headache"
-368,2022-05-08,23,4,"bloating, headache"
-369,2023-12-22,24,4,"cramps, headache"
-370,2022-04-25,28,5,"acne, bloating, fatigue"
-371,2022-07-28,26,5,"bloating, mood swings"
-372,2023-06-10,28,4,"cramps, headache"
-373,2023-06-05,21,6,"headache, mood swings"
-374,2023-07-06,28,3,"mood swings, headache, fatigue"
-375,2022-08-25,24,6,"headache, mood swings"
-376,2022-10-08,31,7,bloating
-377,2022-12-25,21,5,"cramps, fatigue, bloating"
-378,2022-07-20,28,3,acne
-379,2022-10-05,24,3,"headache, cramps, mood swings"
-380,2022-08-23,26,7,"headache, fatigue, acne"
-381,2023-05-09,28,7,acne
-382,2022-01-04,24,4,acne
-383,2023-10-28,34,5,"bloating, headache"
-384,2023-03-18,23,5,mood swings
-385,2022-01-29,34,6,"cramps, bloating, acne"
-386,2022-04-19,29,4,acne
-387,2023-09-02,23,4,fatigue
-388,2023-12-28,29,4,"acne, bloating"
-389,2022-03-16,33,4,"fatigue, cramps"
-390,2022-05-26,22,5,"headache, fatigue"
-391,2022-05-08,34,5,"fatigue, bloating"
-392,2022-02-11,22,4,"headache, cramps"
-393,2022-12-22,22,6,"headache, cramps, acne"
-394,2022-02-10,26,3,mood swings
-395,2022-02-03,23,3,"headache, bloating, cramps"
-396,2022-01-17,33,6,"cramps, headache, bloating"
-397,2023-11-08,29,4,"bloating, cramps"
-398,2022-06-02,24,5,"mood swings, cramps"
-399,2023-01-13,21,3,"fatigue, acne"
-400,2023-08-11,24,7,"fatigue, cramps"
-401,2023-08-22,21,7,"headache, fatigue, bloating"
-402,2023-09-21,34,6,mood swings
-403,2022-12-08,25,4,fatigue
-404,2022-01-27,24,3,"acne, mood swings, bloating"
-405,2022-10-14,28,4,"cramps, headache"
-406,2023-10-08,28,3,acne
-407,2022-06-17,27,6,"fatigue, mood swings, cramps"
-408,2023-09-02,23,6,"cramps, mood swings"
-409,2022-09-25,21,7,"fatigue, bloating"
-410,2023-03-31,21,4,"bloating, fatigue"
-411,2023-11-16,32,7,mood swings
-412,2023-02-05,31,4,headache
-413,2023-04-21,23,7,fatigue
-414,2023-12-03,26,5,"cramps, mood swings"
-415,2023-09-26,27,5,"cramps, mood swings"
-416,2023-07-12,26,5,headache
-417,2023-07-30,34,5,"mood swings, cramps"
-418,2022-05-10,34,3,"headache, fatigue, mood swings"
-419,2022-12-29,26,5,"bloating, mood swings, fatigue"
-420,2023-12-06,26,6,"fatigue, bloating"
-421,2023-11-24,33,6,mood swings
-422,2022-10-19,23,3,headache
-423,2023-01-06,26,5,"fatigue, acne, bloating"
-424,2022-01-29,28,5,"bloating, acne, headache"
-425,2022-05-29,31,5,"acne, bloating, mood swings"
-426,2022-10-23,31,7,fatigue
-427,2022-01-11,22,4,"acne, bloating, mood swings"
-428,2023-05-27,25,7,fatigue
-429,2023-11-07,34,4,"headache, bloating, mood swings"
-430,2022-04-23,21,5,bloating
-431,2022-07-06,32,5,"fatigue, headache, acne"
-432,2022-08-15,35,7,"fatigue, headache"
-433,2022-11-06,21,7,"bloating, mood swings, acne"
-434,2022-04-08,25,4,"mood swings, bloating, acne"
-435,2022-02-24,32,6,"headache, mood swings"
-436,2023-09-15,33,4,bloating
-437,2023-10-26,23,7,"acne, fatigue"
-438,2023-02-10,24,7,"mood swings, headache"
-439,2022-03-10,23,3,"acne, headache, bloating"
-440,2022-11-08,21,7,"acne, cramps"
-441,2022-10-16,21,3,"bloating, mood swings"
-442,2023-07-02,32,6,"fatigue, mood swings"
-443,2022-05-28,32,4,"bloating, acne, headache"
-444,2023-04-12,34,4,"acne, headache"
-445,2022-09-01,33,3,"mood swings, acne"
-446,2023-05-06,34,4,"fatigue, mood swings, headache"
-447,2023-05-22,25,7,"bloating, cramps, mood swings"
-448,2022-12-31,26,5,"mood swings, bloating"
-449,2023-04-27,23,3,bloating
-450,2022-07-20,32,4,headache
-451,2022-06-03,29,3,acne
-452,2023-03-26,25,3,acne
-453,2023-05-16,28,5,"bloating, mood swings, headache"
-454,2022-03-14,33,7,cramps
-455,2023-12-14,21,3,acne
-456,2022-10-23,34,4,"fatigue, bloating"
-457,2022-01-17,25,6,"mood swings, bloating, fatigue"
-458,2023-10-03,35,3,"headache, bloating, cramps"
-459,2022-08-05,23,3,"headache, acne, cramps"
-460,2022-03-02,32,5,"headache, fatigue, mood swings"
-461,2023-09-08,21,7,mood swings
-462,2022-02-11,24,6,fatigue
-463,2022-01-25,35,4,"acne, bloating"
-464,2022-02-08,33,6,"mood swings, bloating, acne"
-465,2022-05-11,25,4,"cramps, mood swings"
-466,2023-05-13,27,7,fatigue
-467,2022-08-17,21,4,acne
-468,2022-04-18,23,5,"cramps, acne, bloating"
-469,2022-06-21,22,5,"acne, headache"
-470,2023-03-11,29,5,"headache, fatigue"
-471,2023-04-23,30,5,"cramps, acne"
-472,2022-04-12,35,6,"acne, bloating, headache"
-473,2023-06-08,26,7,"cramps, acne, headache"
-474,2022-10-02,30,4,"cramps, mood swings, acne"
-475,2023-09-05,23,4,"headache, fatigue, bloating"
-476,2022-02-13,28,5,"mood swings, acne, cramps"
-477,2022-01-17,34,5,mood swings
-478,2022-11-26,28,3,"cramps, acne"
-479,2023-07-23,22,7,"headache, bloating"
-480,2023-05-12,35,6,"acne, mood swings, headache"
-481,2022-01-12,26,4,bloating
-482,2022-11-14,27,3,bloating
-483,2023-08-15,22,3,"fatigue, headache, bloating"
-484,2022-08-04,35,4,"mood swings, fatigue"
-485,2022-12-05,31,6,acne
-486,2023-10-23,30,3,bloating
-487,2022-03-22,22,3,"acne, headache, bloating"
-488,2023-12-28,30,7,fatigue
-489,2023-04-30,21,6,cramps
-490,2023-01-09,28,3,"acne, cramps, headache"
-491,2023-12-11,21,6,"headache, cramps, acne"
-492,2022-07-19,29,4,"bloating, mood swings, acne"
-493,2023-06-21,31,5,"cramps, fatigue, acne"
-494,2023-04-11,26,3,acne
-495,2022-03-30,27,7,"fatigue, mood swings, cramps"
-496,2022-09-25,33,4,"headache, bloating"
-497,2023-10-17,30,6,"mood swings, acne, cramps"
-498,2023-07-25,27,4,"acne, fatigue"
-499,2023-05-04,30,3,"headache, acne, cramps"
-500,2023-06-22,23,6,"bloating, mood swings, cramps"
+user_id,log_date,cycle_length,period_duration,symptoms,Custom
+1,8/18/2023,27,4,"bloating, fatigue, acne",9/14/2023
+2,7/8/2023,24,3,"acne, bloating",8/1/2023
+3,3/1/2023,33,7,"cramps, bloating",4/3/2023
+4,9/5/2023,35,6,"bloating, cramps, fatigue",10/10/2023
+5,6/2/2023,31,4,fatigue,7/3/2023
+6,11/23/2023,28,3,"acne, cramps, headache",12/21/2023
+7,10/9/2022,33,6,"mood swings, headache, fatigue",11/11/2022
+8,11/16/2022,25,7,mood swings,12/11/2022
+9,3/19/2023,27,6,"cramps, fatigue",4/15/2023
+10,11/11/2022,30,3,"bloating, cramps, mood swings",12/11/2022
+11,1/12/2023,23,6,"mood swings, fatigue, headache",2/4/2023
+12,10/16/2022,27,5,mood swings,11/12/2022
+13,3/13/2023,31,6,"bloating, mood swings, acne",4/13/2023
+14,10/24/2023,31,4,"mood swings, acne, headache",11/24/2023
+15,10/4/2022,28,4,"cramps, mood swings, acne",11/1/2022
+16,12/11/2023,25,5,mood swings,1/5/2024
+17,8/5/2023,24,3,fatigue,8/29/2023
+18,5/18/2023,28,4,bloating,6/15/2023
+19,9/16/2023,28,7,"fatigue, bloating, cramps",10/14/2023
+20,5/31/2023,23,4,headache,6/23/2023
+21,12/16/2022,26,4,"bloating, acne",1/11/2023
+22,3/22/2023,25,3,"bloating, mood swings, fatigue",4/16/2023
+23,12/16/2022,22,6,"acne, bloating",1/7/2023
+24,8/30/2023,28,4,"bloating, fatigue, headache",9/27/2023
+25,10/26/2023,32,5,cramps,11/27/2023
+26,5/17/2022,34,6,"acne, headache",6/20/2022
+27,8/31/2022,26,7,mood swings,9/26/2022
+28,6/27/2023,22,3,"headache, fatigue",7/19/2023
+29,2/9/2022,32,7,bloating,3/13/2022
+30,8/17/2022,25,6,"headache, bloating",9/11/2022
+31,7/2/2023,21,6,"acne, fatigue",7/23/2023
+32,8/11/2022,32,6,"mood swings, headache",9/12/2022
+33,1/6/2022,30,7,mood swings,2/5/2022
+34,11/18/2022,26,6,"cramps, bloating",12/14/2022
+35,4/13/2023,33,7,"acne, headache",5/16/2023
+36,3/16/2022,32,6,"fatigue, headache, acne",4/17/2022
+37,1/4/2022,29,5,headache,2/2/2022
+38,10/8/2023,21,6,"acne, cramps",10/29/2023
+39,4/28/2022,31,7,"acne, bloating, mood swings",5/29/2022
+40,8/29/2023,31,4,"fatigue, cramps, mood swings",9/29/2023
+41,5/19/2023,35,6,"mood swings, cramps",6/23/2023
+42,7/28/2023,30,4,mood swings,8/27/2023
+43,3/17/2023,32,5,"bloating, headache, mood swings",4/18/2023
+44,7/13/2022,32,3,cramps,8/14/2022
+45,12/16/2023,35,5,cramps,1/20/2024
+46,1/27/2023,34,6,cramps,3/2/2023
+47,1/26/2022,34,4,"mood swings, fatigue, acne",3/1/2022
+48,3/11/2023,35,4,"acne, fatigue",4/15/2023
+49,6/22/2022,34,7,"headache, cramps",7/26/2022
+50,10/27/2022,23,4,acne,11/19/2022
+51,10/7/2023,32,7,"cramps, bloating, fatigue",11/8/2023
+52,11/22/2022,27,3,"fatigue, mood swings",12/19/2022
+53,2/14/2023,24,6,bloating,3/10/2023
+54,4/28/2022,29,7,"fatigue, cramps",5/27/2022
+55,12/25/2023,23,3,"headache, mood swings, acne",1/17/2024
+56,8/13/2022,25,4,"acne, cramps, headache",9/7/2022
+57,6/16/2023,23,4,bloating,7/9/2023
+58,4/23/2022,27,3,"acne, bloating",5/20/2022
+59,5/20/2022,25,4,"fatigue, cramps",6/14/2022
+60,7/13/2023,29,3,headache,8/11/2023
+61,1/1/2022,27,7,"acne, cramps",1/28/2022
+62,3/31/2022,22,7,acne,4/22/2022
+63,10/16/2023,24,3,mood swings,11/9/2023
+64,11/16/2022,29,7,acne,12/15/2022
+65,7/4/2023,32,7,"mood swings, headache, acne",8/5/2023
+66,5/19/2022,34,7,"acne, fatigue",6/22/2022
+67,5/26/2023,22,5,"acne, bloating",6/17/2023
+68,9/16/2022,30,6,fatigue,10/16/2022
+69,11/4/2023,29,4,"mood swings, headache, cramps",12/3/2023
+70,11/21/2023,30,5,"acne, mood swings",12/21/2023
+71,1/10/2022,25,7,bloating,2/4/2022
+72,9/18/2022,22,3,"cramps, mood swings, bloating",10/10/2022
+73,10/12/2023,24,7,"bloating, fatigue, cramps",11/5/2023
+74,6/21/2022,32,6,"bloating, cramps, headache",7/23/2022
+75,1/13/2022,35,7,"fatigue, mood swings",2/17/2022
+76,6/17/2022,32,3,"headache, cramps",7/19/2022
+77,10/4/2023,27,6,"fatigue, cramps",10/31/2023
+78,8/19/2023,32,7,cramps,9/20/2023
+79,11/17/2022,33,6,"headache, mood swings",12/20/2022
+80,11/15/2022,28,4,"cramps, bloating, acne",12/13/2022
+81,9/5/2023,35,4,cramps,10/10/2023
+82,11/25/2022,23,7,"bloating, cramps",12/18/2022
+83,7/4/2023,34,6,fatigue,8/7/2023
+84,2/23/2023,21,3,"bloating, cramps, mood swings",3/16/2023
+85,8/29/2023,24,7,acne,9/22/2023
+86,4/5/2022,22,4,"acne, mood swings",4/27/2022
+87,8/4/2023,28,4,"fatigue, headache",9/1/2023
+88,11/14/2022,24,7,"mood swings, cramps",12/8/2022
+89,8/24/2022,22,6,"cramps, fatigue",9/15/2022
+90,11/30/2022,34,4,"acne, headache",1/3/2023
+91,1/11/2023,26,6,fatigue,2/6/2023
+92,4/4/2023,26,4,"fatigue, acne",4/30/2023
+93,5/17/2022,30,4,"acne, mood swings",6/16/2022
+94,8/11/2023,24,5,mood swings,9/4/2023
+95,7/1/2023,26,4,"fatigue, headache",7/27/2023
+96,5/28/2023,33,3,"headache, bloating",6/30/2023
+97,10/23/2022,35,7,cramps,11/27/2022
+98,11/16/2022,22,7,"mood swings, cramps",12/8/2022
+99,7/26/2023,30,6,cramps,8/25/2023
+100,12/15/2022,32,4,headache,1/16/2023
+101,8/17/2022,22,3,headache,9/8/2022
+102,9/27/2022,30,6,"fatigue, headache, cramps",10/27/2022
+103,10/18/2022,34,5,"fatigue, bloating",11/21/2022
+104,12/26/2023,24,6,"acne, headache",1/19/2024
+105,6/14/2022,34,6,headache,7/18/2022
+106,1/5/2022,35,4,"mood swings, fatigue, cramps",2/9/2022
+107,1/14/2023,35,5,"acne, bloating, fatigue",2/18/2023
+108,3/19/2022,28,6,cramps,4/16/2022
+109,2/14/2023,34,3,"cramps, mood swings, headache",3/20/2023
+110,7/28/2023,27,3,"bloating, acne, mood swings",8/24/2023
+111,5/12/2022,32,7,bloating,6/13/2022
+112,8/24/2023,29,5,"acne, bloating",9/22/2023
+113,2/11/2022,34,5,"fatigue, bloating",3/17/2022
+114,3/30/2022,28,7,fatigue,4/27/2022
+115,2/6/2023,25,6,bloating,3/3/2023
+116,10/23/2022,33,5,acne,11/25/2022
+117,10/22/2022,22,3,"mood swings, headache",11/13/2022
+118,9/8/2023,35,3,headache,10/13/2023
+119,6/10/2023,25,4,"acne, mood swings, fatigue",7/5/2023
+120,11/22/2023,28,5,"bloating, acne",12/20/2023
+121,9/29/2023,30,6,"bloating, headache, cramps",10/29/2023
+122,2/26/2023,29,7,"headache, bloating",3/27/2023
+123,1/23/2022,32,7,"headache, acne",2/24/2022
+124,7/29/2023,32,6,fatigue,8/30/2023
+125,5/23/2022,32,4,"acne, cramps, bloating",6/24/2022
+126,10/27/2023,33,7,"cramps, mood swings, acne",11/29/2023
+127,5/25/2022,29,5,mood swings,6/23/2022
+128,8/13/2022,33,4,cramps,9/15/2022
+129,5/18/2023,35,5,"fatigue, cramps, mood swings",6/22/2023
+130,9/8/2023,33,3,headache,10/11/2023
+131,4/14/2022,21,4,"headache, acne, fatigue",5/5/2022
+132,2/8/2022,29,7,acne,3/9/2022
+133,7/17/2022,27,4,acne,8/13/2022
+134,10/8/2023,29,4,"cramps, mood swings, fatigue",11/6/2023
+135,8/2/2023,28,4,mood swings,8/30/2023
+136,1/26/2023,21,4,"fatigue, acne, cramps",2/16/2023
+137,6/28/2022,32,5,"bloating, mood swings, fatigue",7/30/2022
+138,7/8/2023,28,3,"mood swings, headache",8/5/2023
+139,3/24/2023,28,6,"cramps, bloating, headache",4/21/2023
+140,5/15/2023,35,4,mood swings,6/19/2023
+141,1/15/2022,31,7,"mood swings, fatigue, bloating",2/15/2022
+142,9/15/2023,23,4,bloating,10/8/2023
+143,10/31/2023,21,7,"fatigue, cramps, headache",11/21/2023
+144,10/16/2022,28,5,"fatigue, acne",11/13/2022
+145,4/23/2023,23,7,"bloating, acne",5/16/2023
+146,8/19/2022,23,6,"bloating, mood swings, acne",9/11/2022
+147,2/24/2023,21,3,"fatigue, acne, cramps",3/17/2023
+148,6/6/2022,31,7,mood swings,7/7/2022
+149,7/4/2023,25,7,"cramps, bloating, acne",7/29/2023
+150,3/17/2023,30,3,fatigue,4/16/2023
+151,4/7/2022,27,6,"cramps, acne",5/4/2022
+152,2/15/2023,30,4,"headache, mood swings, cramps",3/17/2023
+153,10/16/2022,29,7,"bloating, fatigue, headache",11/14/2022
+154,9/11/2022,32,3,"acne, mood swings, headache",10/13/2022
+155,7/15/2022,27,5,fatigue,8/11/2022
+156,8/21/2023,29,3,"fatigue, bloating",9/19/2023
+157,6/6/2023,28,5,"cramps, bloating, fatigue",7/4/2023
+158,6/1/2023,32,6,cramps,7/3/2023
+159,9/27/2023,22,4,"fatigue, mood swings",10/19/2023
+160,4/28/2022,21,3,mood swings,5/19/2022
+161,6/8/2022,27,7,"fatigue, headache, mood swings",7/5/2022
+162,8/16/2022,27,6,"acne, cramps",9/12/2022
+163,8/4/2022,34,3,acne,9/7/2022
+164,11/27/2023,28,7,"acne, mood swings",12/25/2023
+165,1/15/2022,25,3,"acne, headache",2/9/2022
+166,6/6/2022,23,5,mood swings,6/29/2022
+167,10/10/2023,32,3,fatigue,11/11/2023
+168,9/18/2022,28,3,"cramps, fatigue",10/16/2022
+169,6/6/2022,26,3,"cramps, bloating, headache",7/2/2022
+170,2/16/2022,31,6,fatigue,3/19/2022
+171,11/20/2022,23,3,"bloating, fatigue",12/13/2022
+172,11/16/2023,21,7,"cramps, headache",12/7/2023
+173,5/10/2022,23,5,"bloating, acne",6/2/2022
+174,2/15/2023,25,5,"cramps, acne",3/12/2023
+175,4/5/2022,35,3,"mood swings, fatigue",5/10/2022
+176,9/19/2023,34,6,fatigue,10/23/2023
+177,10/19/2022,23,6,acne,11/11/2022
+178,10/10/2022,21,7,mood swings,10/31/2022
+179,3/10/2022,25,3,headache,4/4/2022
+180,10/22/2023,30,5,"acne, fatigue",11/21/2023
+181,1/11/2022,27,6,fatigue,2/7/2022
+182,9/11/2022,35,3,"cramps, bloating, headache",10/16/2022
+183,7/4/2023,34,6,bloating,8/7/2023
+184,5/14/2022,27,6,"headache, bloating, fatigue",6/10/2022
+185,12/13/2023,31,5,acne,1/13/2024
+186,1/23/2022,29,4,"bloating, headache, acne",2/21/2022
+187,12/12/2022,35,7,"cramps, acne",1/16/2023
+188,10/29/2022,35,7,cramps,12/3/2022
+189,12/29/2022,30,5,"mood swings, bloating, cramps",1/28/2023
+190,1/31/2023,30,6,"bloating, fatigue, acne",3/2/2023
+191,8/6/2022,32,3,"cramps, bloating, acne",9/7/2022
+192,5/21/2022,33,6,"mood swings, headache, bloating",6/23/2022
+193,9/8/2023,23,5,"mood swings, bloating",10/1/2023
+194,7/29/2022,35,7,acne,9/2/2022
+195,9/15/2023,27,6,"headache, cramps, mood swings",10/12/2023
+196,9/8/2023,21,7,"cramps, mood swings",9/29/2023
+197,11/14/2023,24,3,"mood swings, headache, acne",12/8/2023
+198,4/5/2023,33,7,"acne, mood swings",5/8/2023
+199,12/22/2022,24,7,bloating,1/15/2023
+200,11/20/2022,34,4,acne,12/24/2022
+201,5/13/2022,25,4,cramps,6/7/2022
+202,5/7/2022,27,4,"bloating, headache, fatigue",6/3/2022
+203,4/16/2022,27,7,"headache, acne, bloating",5/13/2022
+204,8/27/2023,33,5,headache,9/29/2023
+205,1/13/2023,35,7,headache,2/17/2023
+206,2/20/2022,31,5,acne,3/23/2022
+207,1/29/2022,33,5,"cramps, headache, fatigue",3/3/2022
+208,4/7/2023,24,4,cramps,5/1/2023
+209,10/23/2022,33,6,fatigue,11/25/2022
+210,10/24/2022,27,3,"mood swings, acne, fatigue",11/20/2022
+211,12/27/2023,31,4,bloating,1/27/2024
+212,2/11/2023,23,4,"cramps, acne",3/6/2023
+213,9/5/2023,26,6,"bloating, headache",10/1/2023
+214,2/9/2023,32,3,"bloating, fatigue",3/13/2023
+215,12/12/2022,22,7,"fatigue, headache",1/3/2023
+216,9/14/2023,30,7,"acne, mood swings",10/14/2023
+217,2/24/2023,33,4,fatigue,3/29/2023
+218,7/1/2022,34,3,acne,8/4/2022
+219,1/1/2022,29,4,"fatigue, headache, mood swings",1/30/2022
+220,7/21/2023,25,5,cramps,8/15/2023
+221,1/6/2023,26,4,"cramps, fatigue",2/1/2023
+222,10/23/2023,32,4,"mood swings, headache, fatigue",11/24/2023
+223,3/7/2023,32,7,"cramps, headache",4/8/2023
+224,11/5/2022,32,7,"acne, fatigue, headache",12/7/2022
+225,5/17/2022,32,7,headache,6/18/2022
+226,7/21/2022,24,5,"cramps, bloating",8/14/2022
+227,3/12/2023,34,7,"acne, bloating, headache",4/15/2023
+228,11/9/2022,34,3,acne,12/13/2022
+229,4/27/2022,31,6,"bloating, fatigue, cramps",5/28/2022
+230,10/28/2023,30,3,bloating,11/27/2023
+231,7/29/2023,27,3,acne,8/25/2023
+232,9/1/2022,32,7,"fatigue, mood swings",10/3/2022
+233,6/21/2023,29,6,bloating,7/20/2023
+234,8/25/2023,27,6,"bloating, fatigue, headache",9/21/2023
+235,3/16/2022,34,6,"cramps, mood swings, headache",4/19/2022
+236,1/21/2023,21,5,"acne, bloating",2/11/2023
+237,7/29/2022,21,7,"cramps, mood swings",8/19/2022
+238,4/20/2023,29,6,headache,5/19/2023
+239,2/22/2023,31,5,fatigue,3/25/2023
+240,12/13/2022,34,4,"cramps, mood swings",1/16/2023
+241,6/13/2023,29,4,"cramps, fatigue",7/12/2023
+242,10/2/2023,24,5,"fatigue, bloating, acne",10/26/2023
+243,6/28/2022,33,5,"cramps, acne",7/31/2022
+244,7/1/2022,29,7,acne,7/30/2022
+245,10/26/2023,23,7,"headache, fatigue, acne",11/18/2023
+246,1/25/2022,27,4,"fatigue, mood swings, acne",2/21/2022
+247,6/29/2022,26,6,headache,7/25/2022
+248,12/11/2023,28,4,"headache, cramps, fatigue",1/8/2024
+249,5/16/2023,31,6,"mood swings, headache",6/16/2023
+250,6/10/2022,29,6,"bloating, headache",7/9/2022
+251,6/26/2022,34,7,"bloating, mood swings",7/30/2022
+252,10/12/2022,25,3,bloating,11/6/2022
+253,3/4/2022,21,3,"fatigue, acne",3/25/2022
+254,10/24/2023,23,5,acne,11/16/2023
+255,10/28/2023,30,7,mood swings,11/27/2023
+256,6/5/2022,32,6,"fatigue, acne, bloating",7/7/2022
+257,4/14/2023,28,3,"headache, mood swings",5/12/2023
+258,2/18/2022,35,6,cramps,3/25/2022
+259,3/25/2022,31,3,"cramps, acne",4/25/2022
+260,12/27/2022,26,3,"mood swings, fatigue",1/22/2023
+261,11/20/2023,28,3,cramps,12/18/2023
+262,5/28/2022,29,7,"fatigue, acne",6/26/2022
+263,9/22/2023,24,4,"bloating, acne",10/16/2023
+264,12/8/2022,21,6,"cramps, acne, fatigue",12/29/2022
+265,4/21/2023,34,7,"mood swings, cramps, bloating",5/25/2023
+266,3/4/2022,21,7,bloating,3/25/2022
+267,12/2/2023,30,7,"acne, mood swings, cramps",1/1/2024
+268,12/26/2022,24,7,"headache, mood swings, acne",1/19/2023
+269,7/15/2023,32,7,bloating,8/16/2023
+270,11/23/2022,34,5,headache,12/27/2022
+271,5/21/2022,27,6,"fatigue, acne",6/17/2022
+272,8/3/2022,22,7,"fatigue, mood swings",8/25/2022
+273,3/11/2023,23,6,"bloating, mood swings",4/3/2023
+274,12/24/2023,21,5,"fatigue, mood swings",1/14/2024
+275,11/14/2022,25,5,"cramps, headache, mood swings",12/9/2022
+276,2/1/2022,21,6,"cramps, acne",2/22/2022
+277,11/1/2023,28,3,"mood swings, acne, headache",11/29/2023
+278,10/12/2022,21,4,"cramps, acne",11/2/2022
+279,11/1/2022,31,3,"bloating, acne",12/2/2022
+280,3/5/2023,21,3,"mood swings, bloating",3/26/2023
+281,4/22/2023,22,3,fatigue,5/14/2023
+282,10/13/2022,22,7,"bloating, acne, fatigue",11/4/2022
+283,5/24/2022,32,5,cramps,6/25/2022
+284,2/28/2023,26,3,headache,3/26/2023
+285,1/19/2022,27,5,"cramps, mood swings, bloating",2/15/2022
+286,1/18/2022,25,6,"cramps, headache",2/12/2022
+287,8/13/2023,21,4,"headache, mood swings, fatigue",9/3/2023
+288,1/6/2023,21,6,acne,1/27/2023
+289,6/24/2022,23,6,"fatigue, headache",7/17/2022
+290,7/13/2022,34,7,"headache, bloating, fatigue",8/16/2022
+291,5/17/2023,22,4,cramps,6/8/2023
+292,4/23/2022,25,6,"headache, fatigue, bloating",5/18/2022
+293,4/24/2022,32,6,fatigue,5/26/2022
+294,8/10/2022,30,4,"bloating, headache",9/9/2022
+295,11/9/2023,26,4,acne,12/5/2023
+296,10/6/2023,27,6,"fatigue, headache, mood swings",11/2/2023
+297,9/21/2022,24,4,"mood swings, headache, fatigue",10/15/2022
+298,2/24/2022,27,6,"cramps, fatigue",3/23/2022
+299,10/5/2023,31,6,acne,11/5/2023
+300,4/3/2023,28,7,"fatigue, acne, mood swings",5/1/2023
+301,6/11/2022,31,3,"bloating, acne",7/12/2022
+302,1/15/2023,21,6,"acne, headache",2/5/2023
+303,3/28/2022,35,5,"fatigue, headache, bloating",5/2/2022
+304,2/24/2022,26,3,"acne, cramps",3/22/2022
+305,4/21/2023,28,3,"mood swings, headache",5/19/2023
+306,6/27/2022,25,3,"fatigue, acne, cramps",7/22/2022
+307,1/26/2023,24,7,"headache, acne",2/19/2023
+308,12/15/2022,22,6,"headache, mood swings",1/6/2023
+309,1/8/2022,26,7,fatigue,2/3/2022
+310,11/9/2022,26,6,"headache, acne, bloating",12/5/2022
+311,3/19/2023,31,7,"mood swings, fatigue, acne",4/19/2023
+312,11/24/2022,35,7,"headache, fatigue, cramps",12/29/2022
+313,2/23/2022,21,5,"bloating, fatigue",3/16/2022
+314,8/27/2022,29,7,"acne, fatigue, bloating",9/25/2022
+315,8/17/2022,32,4,"headache, acne",9/18/2022
+316,8/2/2023,31,5,"mood swings, headache, acne",9/2/2023
+317,2/20/2022,26,7,mood swings,3/18/2022
+318,9/1/2023,33,3,fatigue,10/4/2023
+319,8/27/2023,23,4,fatigue,9/19/2023
+320,9/21/2022,24,4,headache,10/15/2022
+321,2/22/2023,32,4,"acne, mood swings, headache",3/26/2023
+322,4/6/2022,31,5,"fatigue, bloating, acne",5/7/2022
+323,3/29/2022,24,7,headache,4/22/2022
+324,3/19/2022,23,7,headache,4/11/2022
+325,10/15/2022,30,3,"acne, headache",11/14/2022
+326,4/30/2022,23,3,"fatigue, acne",5/23/2022
+327,5/6/2023,35,4,cramps,6/10/2023
+328,3/28/2023,23,3,headache,4/20/2023
+329,5/15/2023,24,5,"cramps, acne",6/8/2023
+330,6/14/2022,27,7,"acne, bloating",7/11/2022
+331,7/1/2022,24,4,"bloating, mood swings, fatigue",7/25/2022
+332,4/14/2023,29,3,"cramps, acne",5/13/2023
+333,1/7/2022,21,5,"headache, mood swings",1/28/2022
+334,11/26/2022,28,5,"fatigue, headache, cramps",12/24/2022
+335,11/4/2023,27,3,mood swings,12/1/2023
+336,5/31/2022,22,7,fatigue,6/22/2022
+337,3/26/2022,28,3,"bloating, mood swings, headache",4/23/2022
+338,5/27/2022,21,4,"headache, mood swings, bloating",6/17/2022
+339,9/16/2023,31,3,headache,10/17/2023
+340,1/16/2023,32,5,"acne, headache, mood swings",2/17/2023
+341,7/2/2023,29,3,"bloating, cramps, headache",7/31/2023
+342,10/12/2022,29,7,headache,11/10/2022
+343,12/1/2023,22,6,headache,12/23/2023
+344,3/23/2022,27,3,"fatigue, mood swings",4/19/2022
+345,5/29/2023,35,7,"headache, cramps",7/3/2023
+346,12/10/2023,34,7,"cramps, mood swings, acne",1/13/2024
+347,6/7/2023,30,5,"fatigue, mood swings",7/7/2023
+348,1/21/2023,23,7,"mood swings, headache, fatigue",2/13/2023
+349,12/8/2023,27,7,"bloating, fatigue",1/4/2024
+350,4/16/2023,32,7,bloating,5/18/2023
+351,4/29/2022,30,7,bloating,5/29/2022
+352,1/31/2023,29,4,fatigue,3/1/2023
+353,6/16/2023,24,4,cramps,7/10/2023
+354,9/18/2022,32,5,"bloating, mood swings",10/20/2022
+355,9/13/2022,21,3,"headache, bloating, fatigue",10/4/2022
+356,8/14/2022,22,7,"bloating, mood swings",9/5/2022
+357,2/22/2022,21,3,"mood swings, bloating, fatigue",3/15/2022
+358,5/15/2023,34,3,"acne, fatigue, cramps",6/18/2023
+359,5/21/2023,32,5,cramps,6/22/2023
+360,12/30/2022,25,7,"headache, cramps, acne",1/24/2023
+361,10/7/2022,25,7,"bloating, fatigue, cramps",11/1/2022
+362,8/16/2023,31,6,fatigue,9/16/2023
+363,12/15/2023,27,3,headache,1/11/2024
+364,6/7/2022,29,3,"fatigue, cramps",7/6/2022
+365,9/24/2023,29,4,"fatigue, headache, bloating",10/23/2023
+366,2/28/2022,23,6,mood swings,3/23/2022
+367,12/28/2023,23,4,"mood swings, acne, headache",1/20/2024
+368,5/8/2022,23,4,"bloating, headache",5/31/2022
+369,12/22/2023,24,4,"cramps, headache",1/15/2024
+370,4/25/2022,28,5,"acne, bloating, fatigue",5/23/2022
+371,7/28/2022,26,5,"bloating, mood swings",8/23/2022
+372,6/10/2023,28,4,"cramps, headache",7/8/2023
+373,6/5/2023,21,6,"headache, mood swings",6/26/2023
+374,7/6/2023,28,3,"mood swings, headache, fatigue",8/3/2023
+375,8/25/2022,24,6,"headache, mood swings",9/18/2022
+376,10/8/2022,31,7,bloating,11/8/2022
+377,12/25/2022,21,5,"cramps, fatigue, bloating",1/15/2023
+378,7/20/2022,28,3,acne,8/17/2022
+379,10/5/2022,24,3,"headache, cramps, mood swings",10/29/2022
+380,8/23/2022,26,7,"headache, fatigue, acne",9/18/2022
+381,5/9/2023,28,7,acne,6/6/2023
+382,1/4/2022,24,4,acne,1/28/2022
+383,10/28/2023,34,5,"bloating, headache",12/1/2023
+384,3/18/2023,23,5,mood swings,4/10/2023
+385,1/29/2022,34,6,"cramps, bloating, acne",3/4/2022
+386,4/19/2022,29,4,acne,5/18/2022
+387,9/2/2023,23,4,fatigue,9/25/2023
+388,12/28/2023,29,4,"acne, bloating",1/26/2024
+389,3/16/2022,33,4,"fatigue, cramps",4/18/2022
+390,5/26/2022,22,5,"headache, fatigue",6/17/2022
+391,5/8/2022,34,5,"fatigue, bloating",6/11/2022
+392,2/11/2022,22,4,"headache, cramps",3/5/2022
+393,12/22/2022,22,6,"headache, cramps, acne",1/13/2023
+394,2/10/2022,26,3,mood swings,3/8/2022
+395,2/3/2022,23,3,"headache, bloating, cramps",2/26/2022
+396,1/17/2022,33,6,"cramps, headache, bloating",2/19/2022
+397,11/8/2023,29,4,"bloating, cramps",12/7/2023
+398,6/2/2022,24,5,"mood swings, cramps",6/26/2022
+399,1/13/2023,21,3,"fatigue, acne",2/3/2023
+400,8/11/2023,24,7,"fatigue, cramps",9/4/2023
+401,8/22/2023,21,7,"headache, fatigue, bloating",9/12/2023
+402,9/21/2023,34,6,mood swings,10/25/2023
+403,12/8/2022,25,4,fatigue,1/2/2023
+404,1/27/2022,24,3,"acne, mood swings, bloating",2/20/2022
+405,10/14/2022,28,4,"cramps, headache",11/11/2022
+406,10/8/2023,28,3,acne,11/5/2023
+407,6/17/2022,27,6,"fatigue, mood swings, cramps",7/14/2022
+408,9/2/2023,23,6,"cramps, mood swings",9/25/2023
+409,9/25/2022,21,7,"fatigue, bloating",10/16/2022
+410,3/31/2023,21,4,"bloating, fatigue",4/21/2023
+411,11/16/2023,32,7,mood swings,12/18/2023
+412,2/5/2023,31,4,headache,3/8/2023
+413,4/21/2023,23,7,fatigue,5/14/2023
+414,12/3/2023,26,5,"cramps, mood swings",12/29/2023
+415,9/26/2023,27,5,"cramps, mood swings",10/23/2023
+416,7/12/2023,26,5,headache,8/7/2023
+417,7/30/2023,34,5,"mood swings, cramps",9/2/2023
+418,5/10/2022,34,3,"headache, fatigue, mood swings",6/13/2022
+419,12/29/2022,26,5,"bloating, mood swings, fatigue",1/24/2023
+420,12/6/2023,26,6,"fatigue, bloating",1/1/2024
+421,11/24/2023,33,6,mood swings,12/27/2023
+422,10/19/2022,23,3,headache,11/11/2022
+423,1/6/2023,26,5,"fatigue, acne, bloating",2/1/2023
+424,1/29/2022,28,5,"bloating, acne, headache",2/26/2022
+425,5/29/2022,31,5,"acne, bloating, mood swings",6/29/2022
+426,10/23/2022,31,7,fatigue,11/23/2022
+427,1/11/2022,22,4,"acne, bloating, mood swings",2/2/2022
+428,5/27/2023,25,7,fatigue,6/21/2023
+429,11/7/2023,34,4,"headache, bloating, mood swings",12/11/2023
+430,4/23/2022,21,5,bloating,5/14/2022
+431,7/6/2022,32,5,"fatigue, headache, acne",8/7/2022
+432,8/15/2022,35,7,"fatigue, headache",9/19/2022
+433,11/6/2022,21,7,"bloating, mood swings, acne",11/27/2022
+434,4/8/2022,25,4,"mood swings, bloating, acne",5/3/2022
+435,2/24/2022,32,6,"headache, mood swings",3/28/2022
+436,9/15/2023,33,4,bloating,10/18/2023
+437,10/26/2023,23,7,"acne, fatigue",11/18/2023
+438,2/10/2023,24,7,"mood swings, headache",3/6/2023
+439,3/10/2022,23,3,"acne, headache, bloating",4/2/2022
+440,11/8/2022,21,7,"acne, cramps",11/29/2022
+441,10/16/2022,21,3,"bloating, mood swings",11/6/2022
+442,7/2/2023,32,6,"fatigue, mood swings",8/3/2023
+443,5/28/2022,32,4,"bloating, acne, headache",6/29/2022
+444,4/12/2023,34,4,"acne, headache",5/16/2023
+445,9/1/2022,33,3,"mood swings, acne",10/4/2022
+446,5/6/2023,34,4,"fatigue, mood swings, headache",6/9/2023
+447,5/22/2023,25,7,"bloating, cramps, mood swings",6/16/2023
+448,12/31/2022,26,5,"mood swings, bloating",1/26/2023
+449,4/27/2023,23,3,bloating,5/20/2023
+450,7/20/2022,32,4,headache,8/21/2022
+451,6/3/2022,29,3,acne,7/2/2022
+452,3/26/2023,25,3,acne,4/20/2023
+453,5/16/2023,28,5,"bloating, mood swings, headache",6/13/2023
+454,3/14/2022,33,7,cramps,4/16/2022
+455,12/14/2023,21,3,acne,1/4/2024
+456,10/23/2022,34,4,"fatigue, bloating",11/26/2022
+457,1/17/2022,25,6,"mood swings, bloating, fatigue",2/11/2022
+458,10/3/2023,35,3,"headache, bloating, cramps",11/7/2023
+459,8/5/2022,23,3,"headache, acne, cramps",8/28/2022
+460,3/2/2022,32,5,"headache, fatigue, mood swings",4/3/2022
+461,9/8/2023,21,7,mood swings,9/29/2023
+462,2/11/2022,24,6,fatigue,3/7/2022
+463,1/25/2022,35,4,"acne, bloating",3/1/2022
+464,2/8/2022,33,6,"mood swings, bloating, acne",3/13/2022
+465,5/11/2022,25,4,"cramps, mood swings",6/5/2022
+466,5/13/2023,27,7,fatigue,6/9/2023
+467,8/17/2022,21,4,acne,9/7/2022
+468,4/18/2022,23,5,"cramps, acne, bloating",5/11/2022
+469,6/21/2022,22,5,"acne, headache",7/13/2022
+470,3/11/2023,29,5,"headache, fatigue",4/9/2023
+471,4/23/2023,30,5,"cramps, acne",5/23/2023
+472,4/12/2022,35,6,"acne, bloating, headache",5/17/2022
+473,6/8/2023,26,7,"cramps, acne, headache",7/4/2023
+474,10/2/2022,30,4,"cramps, mood swings, acne",11/1/2022
+475,9/5/2023,23,4,"headache, fatigue, bloating",9/28/2023
+476,2/13/2022,28,5,"mood swings, acne, cramps",3/13/2022
+477,1/17/2022,34,5,mood swings,2/20/2022
+478,11/26/2022,28,3,"cramps, acne",12/24/2022
+479,7/23/2023,22,7,"headache, bloating",8/14/2023
+480,5/12/2023,35,6,"acne, mood swings, headache",6/16/2023
+481,1/12/2022,26,4,bloating,2/7/2022
+482,11/14/2022,27,3,bloating,12/11/2022
+483,8/15/2023,22,3,"fatigue, headache, bloating",9/6/2023
+484,8/4/2022,35,4,"mood swings, fatigue",9/8/2022
+485,12/5/2022,31,6,acne,1/5/2023
+486,10/23/2023,30,3,bloating,11/22/2023
+487,3/22/2022,22,3,"acne, headache, bloating",4/13/2022
+488,12/28/2023,30,7,fatigue,1/27/2024
+489,4/30/2023,21,6,cramps,5/21/2023
+490,1/9/2023,28,3,"acne, cramps, headache",2/6/2023
+491,12/11/2023,21,6,"headache, cramps, acne",1/1/2024
+492,7/19/2022,29,4,"bloating, mood swings, acne",8/17/2022
+493,6/21/2023,31,5,"cramps, fatigue, acne",7/22/2023
+494,4/11/2023,26,3,acne,5/7/2023
+495,3/30/2022,27,7,"fatigue, mood swings, cramps",4/26/2022
+496,9/25/2022,33,4,"headache, bloating",10/28/2022
+497,10/17/2023,30,6,"mood swings, acne, cramps",11/16/2023
+498,7/25/2023,27,4,"acne, fatigue",8/21/2023
+499,5/4/2023,30,3,"headache, acne, cramps",6/3/2023
+500,6/22/2023,23,6,"bloating, mood swings, cramps",7/15/2023
