@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 from typing import List
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
-import joblib 
+from joblib import load 
 from datetime import datetime
 import os
 
@@ -29,7 +29,7 @@ app.add_middleware(
 )
 
 # Load the trained model
-linear_model = joblib.load('summative/API/model.pkl')  
+linear_model = load('linear_model.pkl')  
 
 @app.get("/")
 def read_root():
