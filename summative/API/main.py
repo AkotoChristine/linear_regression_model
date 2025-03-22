@@ -29,7 +29,8 @@ app.add_middleware(
 )
 
 # Load the trained model
-linear_model = load('linear_model.pkl')  
+file_path = os.path.join(os.path.dirname(__file__), "linearmodel.pkl")
+linear_model = load(file_path)
 
 @app.get("/")
 def read_root():
