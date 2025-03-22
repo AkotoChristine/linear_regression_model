@@ -40,7 +40,7 @@ def read_root():
 @app.post("/predict")
 def predict(data: InputData):
     login_timestamp = data.Login_Date.timestamp()  # Convert datetime to timestamp
-    input_features = [[login_timestamp, data.Cycle_Length, data.Period_Duration]]
+    input_features = [[login_timestamp, data.Cycle_Length, data.Period_duration]]
     prediction = linear_model.predict(input_features)
     return {"prediction": prediction.tolist()}  # Convert NumPy array to a list for JSON response
 
