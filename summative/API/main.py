@@ -35,8 +35,9 @@ def read_root():
 
 class PredictionInput(BaseModel):
     login_date: str  # Accepts date as "YYYY-MM-DD"
-    cycle_length: int
-    period_duration: int
+    cycle_length: int = Field(..., ge=0, le=50, description="Number of cycle length must be between 0 and 50")
+    period_duration: int =Field(..., ge=0, le=20, description="Number of period duration must be between 0 and 20")
+
 
 @app.post("/predict")
 def predict(data: PredictionInput):
