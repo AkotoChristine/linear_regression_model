@@ -22,31 +22,36 @@ A **Flutter** mobile application that predicts the next period dates for girls b
 ## Prerequisites  
 Ensure you have the following installed before running the application:  
 
-- **Flutter SDK** → [Install Flutter](https://flutter.dev/docs/get-started/install)  
-- **Dart SDK** (comes with Flutter)  
-- **Android Studio** (for Android emulation)  
-- **Git** → [Install Git](https://git-scm.com/downloads)  
+1. **Flutter SDK** → [Install Flutter](https://flutter.dev/docs/get-started/install)  
+2. **Dart SDK** (comes with Flutter)  
+3. **Android Studio** (for Android emulation)  
+4. **Git** → [Install Git](https://git-scm.com/downloads)  
 
 ## Installation  
 
-### 1. Clone the Repository  
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/AkotoChristine/linear_regression_model.git
+   cd linear_regression_model
+   ```  
+
+2. **Install Dependencies**  
+   Inside the project directory, run:  
+   ```bash
+   flutter pub get
+   ```  
+
+3. **Add Dependencies to `pubspec.yaml`**  
+   ```yaml
+   dependencies:
+     flutter:
+       sdk: flutter
+     http: ^1.1.0
+     intl: ^0.18.0
+   ```  
+
+## Folder Structure  
 ```bash
-git clone https://github.com/AkotoChristine/linear_regression_model.git
-cd linear_regression_model
-
-
-## 2. Add Dependencies to pubspec.yaml
-yaml
-Copy
-Edit
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^1.1.0
-  intl: ^0.18.0
-
-## Folder Structure
-
 period_predictor/
 │
 ├── lib/                # Main Flutter application files  
@@ -61,4 +66,22 @@ period_predictor/
 ├── pubspec.yaml        # Configuration file  
 │
 └── README.md           # Documentation  
+```  
 
+## Running the Application  
+
+1. **Start an Emulator or Connect a Device**  
+   Use **Android Studio** to launch an emulator or connect a physical device.  
+
+2. **Run the App**  
+   ```bash
+   flutter run
+   ```  
+
+3. **Hot Reload (During Development)**  
+   Make changes and save to see updates instantly.  
+
+## API Integration & Model Deployment  
+The app integrates with a deployed API to predict period dates. Ensure the API is running and accessible via a publicly routable URL, as required for testing on **Swagger UI**.  
+
+For more details on the API, refer to the `/API/` directory in the repository.  
