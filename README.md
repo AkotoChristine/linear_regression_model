@@ -5,8 +5,9 @@ The mission is focused on Women Empowerment. I aim to enhance reproductive healt
 # DATASET 
 The Dataset consist of the last period date, The cycle Lengh, the duration, next period date  and the symptoms of the individual 
 *The Dataset was gotten on Kaggle*
-
-
+# Deployed API 
+https://linear-regression-model-1-jrla.onrender.com
+TO GET THE SWAGGER UI, ADD */docs*
 
 
 
