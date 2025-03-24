@@ -8,6 +8,8 @@ The Dataset consist of the last period date, The cycle Lengh, the duration, next
 # Deployed API 
 https://linear-regression-model-1-jrla.onrender.com
 TO GET THE SWAGGER UI, ADD */docs*
+## link to Youtube Video
+https://youtu.be/ZAgzvYZXXRE
 
 
 
