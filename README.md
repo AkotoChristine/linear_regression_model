@@ -34,3 +34,13 @@ Ensure you have the following installed before running the application:
 git clone https://github.com/AkotoChristine/linear_regression_model.git
 cd linear_regression_model
 
+
+## Add Dependencies to pubspec.yaml
+yaml
+Copy
+Edit
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  intl: ^0.18.0
