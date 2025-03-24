@@ -35,7 +35,7 @@ git clone https://github.com/AkotoChristine/linear_regression_model.git
 cd linear_regression_model
 
 
-## Add Dependencies to pubspec.yaml
+## 2. Add Dependencies to pubspec.yaml
 yaml
 Copy
 Edit
@@ -44,3 +44,21 @@ dependencies:
     sdk: flutter
   http: ^1.1.0
   intl: ^0.18.0
+
+## Folder Structure
+
+period_predictor/
+│
+├── lib/                # Main Flutter application files  
+│   └── main.dart       # Entry point of the app  
+│
+├── android/            # Android-specific files  
+│
+├── ios/                # iOS-specific files  
+│
+├── assets/             # Images and other assets  
+│
+├── pubspec.yaml        # Configuration file  
+│
+└── README.md           # Documentation  
+
