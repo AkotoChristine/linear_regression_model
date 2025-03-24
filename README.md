@@ -8,66 +8,81 @@ The Dataset consist of the last period date, The cycle Lengh, the duration, next
 # Deployed API 
 https://linear-regression-model-1-jrla.onrender.com
 TO GET THE SWAGGER UI, ADD */docs*
+
 ## link to Youtube Video
 https://youtu.be/ZAgzvYZXXRE
 
-A Flutter mobile application that predicts NEXT PERIOD DATES OF GIRLS  Features
+Period Predictor App
+A Flutter mobile application that predicts the next period dates for girls based on:
+✅ Last Period Start Date
+✅ Period Duration
+✅ Cycle Length
 
-Periuod predictor is based on the following:
+Prerequisites
+Ensure you have the following installed before running the application:
 
-Last BMI Period Date
-Period Duration 
-Cycle Length
+Flutter SDK → Install Flutter
 
-Ensure you have the following tools installed:
-Flutter SDK
-Install Flutter
 Dart SDK (comes with Flutter)
+
 Android Studio (for Android emulation)
-Git: Install Git
+
+Git → Install Git
 
 Installation
-Clone the Repository:
-git clone https://github.com/AkotoChristine/linear_regression_model
+1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/AkotoChristine/linear_regression_model.git
 cd linear_regression_model
-Install Dependencies: Inside the project directory, run:
+2. Install Dependencies
+Inside the project directory, run:
 
+bash
+Copy
+Edit
 flutter pub get
-
-Add required dependencies to pubspec.yaml:
-
+3. Add Dependencies to pubspec.yaml
+yaml
+Copy
+Edit
 dependencies:
   flutter:
     sdk: flutter
   http: ^1.1.0
   intl: ^0.18.0
-
-
 Folder Structure
- insurancecostpredictor/
+bash
+Copy
+Edit
+period_predictor/
 │
-├── lib/                    
-│   └── main.dart          
+├── lib/                # Main Flutter application files  
+│   └── main.dart       # Entry point of the app  
 │
-├── android/               
+├── android/            # Android-specific files  
 │
-├── ios/                   
+├── ios/                # iOS-specific files  
 │
-├── images/                
+├── assets/             # Images and other assets  
 │
-├── pubspec.yaml          
+├── pubspec.yaml        # Configuration file  
 │
-└── README.md
-Configure assets in pubspec.yaml:
-
-
+└── README.md           # Documentation  
 Running the Application
+1. Start an Emulator or Connect a Device
+Use Android Studio to launch an emulator or connect a physical device.
 
-Start an Emulator or Connect a Device: Use Android Studio to launch an emulator or connect a physical device.
-
-Run the App:
-
+2. Run the App
+bash
+Copy
+Edit
 flutter run
-Hot Reload (during development): Make changes and save to see updates instantly.
+3. Hot Reload (During Development)
+Make changes and save to see updates instantly.
 
+API Integration & Model Deployment
+The app integrates with a deployed API to predict period dates. Ensure the API is running and accessible via a publicly routable URL, as required for testing on Swagger UI.
 
+For more details on the API, refer to the /API/ directory in the repository.
